@@ -1,3 +1,4 @@
+
 // colors 
 $dark: #424652;
 $light: #9a9da4;
@@ -292,7 +293,7 @@ input[type="email"],
 input[type="password"],
 textarea {
    width: 100%;
-   man-width: 100%;
+   max-width: 100%;
    border: 2px solid $border;
    padding: 1em;
    margin: .5em 0 2em 0;
